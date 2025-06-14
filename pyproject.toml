@@ -16,8 +16,8 @@ classifiers = [               # 分类标签（可选）
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/ShinetingChu/USL-lib"
-"Repository" = "https://github.com/ShinetingChu/USL-lib"
+"Homepage" = "https://github.com/ShinetingChu/USL_USTC_lib"
+"Repository" = "https://github.com/ShinetingChu/USL_USTC_lib"
 
 
 [tool.setuptools.packages]
