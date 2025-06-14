@@ -1,10 +1,10 @@
 Metadata-Version: 2.4
 Name: USL_USTC_lib
-Version: 2025.6.2
+Version: 2025.6.3
 Summary: Some useful functions for USL(ultra-stable laser)
 Author-email: zxq985 <zxq985160104@163.com>
-Project-URL: Homepage, https://github.com/ShinetingChu/USL-lib
-Project-URL: Repository, https://github.com/ShinetingChu/USL-lib
+Project-URL: Homepage, https://github.com/ShinetingChu/USL_USTC_lib
+Project-URL: Pypi, https://pypi.org/project/USL-USTC-lib/
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Requires-Python: >=3.8
@@ -16,4 +16,24 @@ Dynamic: license-file
 
 ## Introduction
 
-USL_USC_lib is a python package for ultra-stable laser system researching in USTC, it includings many functions for data deal and calculation, like read TCH data and calculate its PSD and Allan deviation.
+USL_USC_lib is a python package for **ultra-stable laser system** researching in **USTC**, it includings many functions for data deal and calculation, like read TCH data and calculate its PSD and Allan deviation.
+
+
+## Installation
+
+Install from pypi:
+
+`pip install USL-USTC-lib`
+
+
+## Basic usage
+
+In python:
+
+`import USL_USTC_lib as usl`
+
+## Functions
+
+|Function|Description|
+|--|--|
+|`plot_data_labview()`|Plot the data's gragh from Labview, including the time domain, PSD and Allan Deviation.| 
