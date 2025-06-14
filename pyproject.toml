@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "USL_USTC_lib"    # 包名（PyPI 唯一标识）
-version = "2025.06.02"             # 版本号（每次更新需递增）
+version = "2025.06.03"             # 版本号（每次更新需递增）
 authors = [{ name = "zxq985", email = "zxq985160104@163.com" }]
 description = "Some useful functions for USL(ultra-stable laser)"  # 简短描述
 readme = "README.md"
@@ -17,7 +17,7 @@ classifiers = [               # 分类标签（可选）
 
 [project.urls]
 "Homepage" = "https://github.com/ShinetingChu/USL_USTC_lib"
-"Repository" = "https://github.com/ShinetingChu/USL_USTC_lib"
+"Pypi" = "https://pypi.org/project/USL-USTC-lib/"
 
 
 [tool.setuptools.packages]
