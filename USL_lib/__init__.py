@@ -236,7 +236,7 @@ def transfer_temp(t_a,T_a,t_0,tau,D_t,fs):# tau:s,time transfer constant;#D_t: T
     num_t,dt,nu,S_out=PSD(t_a,T_a,fs)
     # calculate the time transfer constant \tau and CTE \alpha
     beta=1.8E-8 # /K^2
-    t_0=123.85 # K,zero-crossing temperature(U1:27.3,U2:23.5,U3:263.9K,Si1:123.85K)
+    t_0=123.85 # K,zero-crossing temperature
     # t_mean=np.mean(T_a) # actual= average temp
     alpha=beta*D_t #/K, coefficient of thermal expansion(CTE)
     # calculate the PSD of Cavity

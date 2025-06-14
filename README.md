@@ -1,22 +1,22 @@
-# USL_USTC_lib
+# USL_lib
 
 ## Introduction
 
-USL_USC_lib is a python package for **ultra-stable laser system** researching in **USTC**, it includings many functions for data deal and calculation, like read TCH data and calculate its PSD and Allan deviation.
+USL_lib is a python package for **ultra-stable laser system** researching, it includings many functions for data deal and calculation, like read TCH data and calculate its PSD and Allan deviation.
 
 
 ## Installation
 
 Install from pypi:
 
-`pip install USL-USTC-lib`
+`pip install USL-lib`
 
 
 ## Basic usage
 
 In python:
 
-`import USL_USTC_lib as usl`
+`import USL_lib as usl`
 
 ## Functions
 
