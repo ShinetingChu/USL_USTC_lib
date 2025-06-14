@@ -1,2 +1,2 @@
-USL_USTC_lib
+USL_lib
 dist
