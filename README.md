@@ -22,4 +22,4 @@ In python:
 
 |Function|Description|
 |--|--|
-|`plot_data_labview()`|Plot the data's gragh from Labview, including the time domain, PSD and Allan Deviation| 
+|`plot_data_labview()`|Plot the data's gragh from Labview, including the time domain, PSD and Allan Deviation.| 
