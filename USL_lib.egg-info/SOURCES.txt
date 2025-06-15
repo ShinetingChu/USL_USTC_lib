@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-USL_lib/__init__.py
-USL_lib.egg-info/PKG-INFO
-USL_lib.egg-info/SOURCES.txt
-USL_lib.egg-info/dependency_links.txt
-USL_lib.egg-info/top_level.txt
